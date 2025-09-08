@@ -110,9 +110,3 @@ TMDB_API_KEY = 'YOUR_API_KEY_HERE'
 ## 📄 License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
-
-
-If you want, I can also **write a `requirements.txt`** file for this project with all the packages and versions you need to run it flawlessly on any system.
-
-Do you want me to do that too?
